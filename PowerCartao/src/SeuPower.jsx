@@ -31,7 +31,7 @@ function SeuPower() {
             </button>
             {selectedRanger && (
                 <div style={{ marginTop: "20px" }}>
-                    <h2>{selectedRanger.name}</h2>
+                    <h2>Seu Ranger é: {selectedRanger.name}</h2>
                     <img src={selectedRanger.image} alt={selectedRanger.name} style={{ width: "200px", height: "auto" }} />
                 </div>
             )}
