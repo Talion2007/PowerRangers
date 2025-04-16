@@ -6,6 +6,7 @@ import PinkRanger from "./assets/pink.png"
 import GreenRanger from "./assets/green.png"
 import GoldenRanger from "./assets/golden.png"
 
+
 const rangers = [
     { name: "Red Ranger", image: RedRanger },
     { name: "Blue Ranger", image: BlueRanger },
